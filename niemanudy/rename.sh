@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Directory path where the files are located
-directory="C:\Users\Wielgowie\source\repos\website\niemanudy\podkarpackie"
+directory="C:\Users\Wielgowie\source\repos\website\niemanudy\podlaskie"
 
 # New file name prefix
-new_prefix="podkarpackie_"
+new_prefix="podlaskie_"
 
 # Navigate to the directory
 cd "$directory" || exit
