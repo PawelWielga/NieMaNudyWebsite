@@ -1,0 +1,15 @@
+    Informacje o danych osobowych: Nasza aplikacja nie zbiera ani nie przechowuje żadnych danych osobowych użytkowników, chyba że użytkownik dobrowolnie dostarczy takie informacje w celach kontaktowych lub rejestracji.
+
+    Personalizacja reklam: Aby dostarczyć bardziej dostosowane reklamy, możemy korzystać z technologii śledzenia anonimowych identyfikatorów reklamowych, takich jak reklamowe identyfikatory urządzenia (Advertising IDs) na platformach mobilnych. Te identyfikatory są używane wyłącznie do celów personalizacji reklam w aplikacji i nie są powiązane z żadnymi danymi osobowymi.
+
+    Śledzenie aktywności: Nie śledzimy aktywności użytkownika w aplikacji poza anonimowymi identyfikatorami reklamowymi. Nie rejestrujemy żadnych informacji na temat interakcji, nawigacji lub innych działań wykonywanych w aplikacji, które mogłyby identyfikować użytkownika osobiście.
+
+    Dane analityczne: W celu poprawy działania aplikacji i doświadczenia użytkownika, możemy używać narzędzi analitycznych, które zbierają anonimowe dane o użytkowaniu aplikacji, takie jak liczba wizyt, czas spędzony w aplikacji, strony odwiedzone itp. Te dane są zbierane w sposób, który nie identyfikuje użytkownika osobiście.
+
+    Bezpieczeństwo danych: Choć nie zbieramy danych osobowych użytkowników, podejmujemy odpowiednie środki bezpieczeństwa w celu ochrony wszelkich informacji, które mogą zostać przekazane przez aplikację. Stosujemy standardowe protokoły bezpieczeństwa i zapewniamy, że wszelkie przekazywane dane są zabezpieczone.
+
+    Dostawcy reklam: Możemy korzystać z usług zewnętrznych dostawców reklamowych, którzy mogą używać swoich własnych mechanizmów śledzenia w celu personalizacji reklam. Te dostawcy reklam mogą mieć własne polityki prywatności dotyczące gromadzenia i wykorzystywania danych. Zalecamy zapoznanie się z politykami prywatności tych dostawców reklam, aby uzyskać więcej informacji na ten temat.
+
+    Rezygnacja z personalizacji reklam: W przypadku, gdy użytkownik nie chce otrzymywać personalizowanych reklam, może zmienić ustawienia identyfikatora reklamowego w swoim urządzeniu. Instrukcje dotyczące zarządzania ustawieniami identyfikatora reklamowego można znaleźć w dokumentacji swojego urządzenia.
+
+Naszym celem jest zapewnienie prywatności i bezpieczeństwa użytkowników naszej aplikacji. Jeśli masz jak
