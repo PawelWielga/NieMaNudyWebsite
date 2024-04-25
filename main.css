@@ -1,0 +1,17 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.styles{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.style{
+    padding: 0px 10px 10px 10px;
+    text-align: center;
+    width: 200px;
+}
