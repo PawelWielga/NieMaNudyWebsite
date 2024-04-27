@@ -1,0 +1,82 @@
+.card1{
+    width: 100%;
+    box-shadow: 0px 1px 35px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+.card1 img {   
+	width: 100%;
+    border-radius: 5px 5px 0 0 ;
+}
+
+.card1 .tags{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 4px;
+    overflow: hidden;
+    margin-top: -3px;
+}
+
+.card1 .tag{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    padding: 1px 4px;
+    border-radius: 5px;
+    text-wrap: nowrap;
+}
+
+.card1 .tag.teal{
+    background-color: teal;
+    font-weight: 600;
+    color: white
+}
+
+
+.card1 .tag.cornflowerblue{
+    background-color: cornflowerblue;
+    font-weight: 600;
+    color: white
+}
+
+.card1 .pins1{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2px;
+}
+
+.card1 .content{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.card1 h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+}
+
+
+.card1 h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+}
