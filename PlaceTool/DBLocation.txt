@@ -1,1 +1,1 @@
-﻿F:\repos\NieMaNudyWebsite\niemanudy\PlacesDataBase.txt
+﻿C:\Users\Wielgowie\source\repos\NieMaNudyWebsite\niemanudy\PlacesDataBase.txt
